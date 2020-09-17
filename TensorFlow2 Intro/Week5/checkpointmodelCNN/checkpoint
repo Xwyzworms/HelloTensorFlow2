@@ -1,0 +1,2 @@
+model_checkpoint_path: "CheckpointBest"
+all_model_checkpoint_paths: "CheckpointBest"
